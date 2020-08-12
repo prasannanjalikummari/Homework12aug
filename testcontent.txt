@@ -1,0 +1,14 @@
+# this is the second level of homework
+------Fork any project of any peer or instructor from github
+-------github knows about the branch forked from others project
+------Perform below steps in terminal
+------cd to the required folder
+-------git init
+------In github, get the code url 
+------In terminal git clone with url
+------Add a new file or perform any changes to existing file in VS code editor, then save 
+------git add file
+------git commit
+------git push to your repo
+------create a pull request to merge your changes to the original repopeers or instructor's repo)
+------once approved, merge pull request and then delete the branch
